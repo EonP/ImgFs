@@ -12,7 +12,7 @@ sudo apt install check pip pkg-config libvips-dev libjson-c-dev
 pip install parse robotframework
 ```
 
-## Compilating the project 
+## Compiling the project 
 
 From the `done` directory, run 
 ```bash
